@@ -1,0 +1,68 @@
+{
+  "list": [
+    {
+      "day": "Wed",
+      "highTemp": 78,
+      "lowTemp": 67,
+      "currentDay": true,
+      "iconUrl": "http://openweathermap.org/img/w/03d.png",
+      "iconDesc": "legit"
+    },
+    {
+      "day": "Thu",
+      "highTemp": 83,
+      "lowTemp": 66,
+      "currentDay": false,
+      "iconUrl": "http://openweathermap.org/img/w/04d.png",
+      "iconDesc": "legit"
+    },
+    {
+      "day": "Fri",
+      "highTemp": 77,
+      "lowTemp": 65,
+      "currentDay": false,
+      "iconUrl": "http://openweathermap.org/img/w/04d.png",
+      "iconDesc": "legit"
+    },
+    {
+      "day": "Sat",
+      "highTemp": 78,
+      "lowTemp": 64,
+      "currentDay": false,
+      "iconUrl": "http://openweathermap.org/img/w/10d.png",
+      "iconDesc": "legit"
+    },
+    {
+      "day": "Sun",
+      "highTemp": 77,
+      "lowTemp": 62,
+      "currentDay": false,
+      "iconUrl": "http://openweathermap.org/img/w/10d.png",
+      "iconDesc": "legit"
+    },
+    {
+      "day": "Mon",
+      "highTemp": 71,
+      "lowTemp": 61,
+      "currentDay": false,
+      "iconUrl": "http://openweathermap.org/img/w/10d.png",
+      "iconDesc": "legit"
+    },
+    {
+      "day": "Tue",
+      "highTemp": 70,
+      "lowTemp": 60,
+      "currentDay": false,
+      "iconUrl": "http://openweathermap.org/img/w/10d.png",
+      "iconDesc": "legit"
+    },
+    {
+      "day": "Wed",
+      "highTemp": 78,
+      "lowTemp": 67,
+      "currentDay": false,
+      "iconUrl": "http://openweathermap.org/img/w/04d.png",
+      "iconDesc": "legit"
+    }
+  ]
+}
